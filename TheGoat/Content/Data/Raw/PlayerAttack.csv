@@ -1,8 +1,16 @@
 ,Stamina Cost,Damage,Rage Increase,Impact
-LightAttackCombo01,10,10,1,1
-LightAttackCombo02,10,10,1,1
-LightAttackCombo03,20,10,1,1
-LightAttackCombo04,10,10,1,1
-LightAttackCombo05,20,20,5,2
-HeavyAttackCombo01,25,10,2,1
-HeavyAttackCombo02,25,10,2,1
+LightAttackCombo01,10,10,3,1
+LightAttackCombo02,10,10,3,1
+LightAttackCombo03,20,10,3,1
+LightAttackCombo04,10,10,3,1
+LightAttackCombo05,20,20,7,2
+HeavyAttackRelease0,25,20,3,1
+HeavyAttackRelease1,25,20,7,2
+HeavyAttackRelease2Normal,25,20,10,3
+HeavyAttackRelease2Power,25,20,5,3
+ComboC02,10,10,3,1
+ComboC03,25,20,10,3
+ComboD02,25,20,7,2
+ComboE02,25,20,25,4
+ComboGRelease1,15,20,7,2
+FightBack,0,100,0,4
